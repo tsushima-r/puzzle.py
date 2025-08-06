@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/21626029/README.md)
-# 🎮 パズルゲーム（Toonblast風）
+# 🎮 ワンタッチで遊べる！パズルゲーム
 
 3×3マスで遊べるシンプルなパズルゲームを作成しました。  
 Python + Tkinter で初心者向けに設計された、ワンタップで遊べるブロックマッチパズルです。
