@@ -88,8 +88,3 @@ class BlockGame:
                 self.buttons[row][col].config(bg=new_color)
         # 再確認（まれにまた消せない状態になる可能性があるため）
         self.root.after(100, self.check_no_moves)
-
-if __name__ == "__main__":
-    root = tk.Tk()
-    game = BlockGame(root)
-    root.mainloop()
