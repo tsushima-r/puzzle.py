@@ -37,6 +37,10 @@ Toonblast風のブロックマッチパズルゲームを、Python + Tkinter に
 
 1. Pythonがインストールされた環境で以下のファイルを実行してください：
 
-```bash
-python block_game.py
+bash
+mkdir puzzle-game
+cd puzzle-game
+
+
+
 
