@@ -38,8 +38,6 @@ Toonblast風のブロックマッチパズルゲームを、Python + Tkinter に
 1. Pythonがインストールされた環境で以下のファイルを実行してください：
 
 bash
-git clone https://github.com/tsushima-r/puzzle.py.git
-cd puzzle.py
 python block_game.py
 
 
